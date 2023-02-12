@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Tortas"
+  },
+  {
+    "Id": 2,
+    "Name": "Postres"
+  },
+  {
+    "Id": 3,
+    "Name": "Masitas"
+  }
+]

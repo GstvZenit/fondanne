@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Estándar"
+  },
+  {
+    "Id": 2,
+    "Name": "Libre de gluten"
+  },
+  {
+    "Id": 3,
+    "Name": "Sin lactosa"
+  },
+  {
+    "Id": 4,
+    "Name": "Congelados"
+  },
+  {
+    "Id": 5,
+    "Name": "Integral"
+  },
+  {
+    "Id": 6,
+    "Name": "Vegano"
+  }
+]

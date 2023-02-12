@@ -1,0 +1,164 @@
+[
+  {
+    "Name": "Pastel de Chocolate",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel de Oreo",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Empanada de queso",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/sb-core1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 2,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Pastel de Helado",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/sb-core2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel de Manzana",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/sb-react1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 4,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel de Vainilla",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/sb-ts1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 5,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel Selva Negra",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 10,
+    "PictureUrl": "images/products/hat-core1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel de colibrí",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 8,
+    "PictureUrl": "images/products/hat-react1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 4,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pastel de piña al revés-parve",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15,
+    "PictureUrl": "images/products/hat-react2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 4,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Cauquitas",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 18,
+    "PictureUrl": "images/products/glove-code1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 3,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Pastel de fruta",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/glove-code2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Cupcake",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 16,
+    "PictureUrl": "images/products/glove-react1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 4,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Rollo",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14,
+    "PictureUrl": "images/products/glove-react2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 4,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Pie de Limón",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250,
+    "PictureUrl": "images/products/boot-redis1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 6,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Pie de Manzana",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/boot-core2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 2,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Cheesecake",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-core1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 2,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Brownie",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 150,
+    "PictureUrl": "images/products/boot-ang2.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 1,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Tiramusú",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "Ingredients": "chocolate, nueces, etc.",
+    "ProductCategorieId": 1,
+    "ProductTypeId": 2
+  }
+]
